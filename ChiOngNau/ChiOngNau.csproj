@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChienTranh.cs" />
     <Compile Include="Entities\Ong.cs" />
+    <Compile Include="Entities\OngChua.cs" />
+    <Compile Include="Entities\OngDuc.cs" />
+    <Compile Include="Entities\OngTho.cs" />
+    <Compile Include="GiaoDien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
