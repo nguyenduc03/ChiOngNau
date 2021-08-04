@@ -10,6 +10,8 @@ namespace ChiOngNau
     {
         static void Main(string[] args)
         {
+            siba
+
         }
     }
 }
