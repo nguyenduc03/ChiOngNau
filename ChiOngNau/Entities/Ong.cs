@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChiOngNau
+namespace ChiOngNau.Entities
 {
-    class Program
+    class Ong
     {
-        static void Main(string[] args)
-        {
+        public int Mau = 100;
+        public string TrangThai { get; set; }
 
-        }
     }
 }
